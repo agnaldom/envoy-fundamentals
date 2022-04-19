@@ -1,3 +1,3 @@
 # Envoy Fundamentals
 
-# [Introduction]{./introduction01.md}
+# [Introduction](introduction01.md)
